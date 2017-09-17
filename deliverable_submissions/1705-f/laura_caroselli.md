@@ -1,20 +1,21 @@
 # Laura Caroselli
 
-Students should clone their individual file and update them with gist links for each specific deliverables before making a Pull Request. Please name your Pull Request using this convention: *Module Program First Name Last Name*, i.e. "M3 FE Allison Singer"
-
 ## Mod 3 Deliverables:
 
 * Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-https://www.canva.com/design/DACece23zEM/uRxvQ_dxKFPA6rb4KQlewg/view?utm_content=DACece23zEM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+https://www.canva.com/design/DACfjIiC7us/xeOA5iBHvwFDyXrtKcHocA/view?utm_content=DACfjIiC7us&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 * Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
 https://www.turing.io/alumni/laura-caroselli
 
 * Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
+https://gist.github.com/lcaroselli/eb3aac5e95191644051e853068be2899
 
 * Link to Trello Board with companies that are being tracked: 
+https://trello.com/b/VvNwWRYh/job-search
 
 * Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+https://gist.github.com/lcaroselli/93da35b56a10ba1d9b1810a75c3a071a
 
 
 ## Mod 2 Deliverables:
